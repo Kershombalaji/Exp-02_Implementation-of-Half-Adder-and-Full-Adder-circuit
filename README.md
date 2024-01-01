@@ -1,4 +1,4 @@
-# Experiment 03-Implementation of Half Adder and Full Adder circuit
+# Experiment 03-Implementation of Half Adder and Full Adder circuit using Verilog HDL.
 ### Name: BALAJI V
 ### Reg-no:212223050008
 
