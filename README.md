@@ -1,7 +1,6 @@
+# Experiment 03-Implementation of Half Adder and Full Adder circuit
 ### Name: BALAJI V
 ### Reg-no:212223050008
-
-# Experiment 03-Implementation of Half Adder and Full Adder circuit
 
 ### AIM:
 To design a half adder and full adder circuit and verify its truth table in Quartus using Verilog programming.
